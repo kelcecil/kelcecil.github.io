@@ -11,9 +11,11 @@ permalink: /talks/
 
 Let's be honest for a second. Containers are the slick new way to deploy, and Docker is the most recognizable name in containers to date. Everyone knows that Docker containers ease deployment by including dependencies inside the image, but is that all we can gain? Absolutely not! We'll talk about how to get started building your own Docker containers and other uses for containers we've found convenient or helpful when integrating this sweet new technology into our environment!
 
-Kubernetes: Sailing a Sea of Containers
+[Kubernetes: Sailing a Sea of Containers](http://www.slideshare.net/KelCecil/kubernetes-sailing-a-sea-of-containers)
 -------------------------------
 
-#### Ohio Linuxfest
+#### [Ohio Linuxfest](https://ohiolinux.org/)
 
-More information coming.
+Containers are everywhere these days. Many of us are containerizing our applications to take advantage of the ease of a single artifact, but what can we do to make deploying these containers to a fleet of servers easier? Kubernetes is arguably the most popular container orchestration system to date. Kubernetes was born out of a decade of research at Google and has seen success; by itself as a fantastic way to orchestrate containers across multiple machines and as a component in other platforms.
+
+This talk will begin with the anatomy and setup of a Kubernetes cluster. We'll demonstrate (live) taking a container containing a simple web service and launch our application into a small Kubernetes cluster. Next we'll perform a rolling update to deploy a new container version with zero downtime. Also, we'll check out some cool debugging features Kubernetes provides over the course of our demo.
