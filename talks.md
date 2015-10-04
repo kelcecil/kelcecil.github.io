@@ -14,7 +14,7 @@ Let's be honest for a second. Containers are the slick new way to deploy, and Do
 [Kubernetes: Sailing a Sea of Containers](http://www.slideshare.net/KelCecil/kubernetes-sailing-a-sea-of-containers)
 -------------------------------
 
-#### [Ohio Linuxfest](https://ohiolinux.org/)
+#### [Ohio Linuxfest 2015](https://ohiolinux.org/)
 
 Containers are everywhere these days. Many of us are containerizing our applications to take advantage of the ease of a single artifact, but what can we do to make deploying these containers to a fleet of servers easier? Kubernetes is arguably the most popular container orchestration system to date. Kubernetes was born out of a decade of research at Google and has seen success; by itself as a fantastic way to orchestrate containers across multiple machines and as a component in other platforms.
 
