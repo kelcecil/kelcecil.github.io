@@ -41,13 +41,13 @@ go build -o hello main.go
 hello: Mach-O 64-bit executable x86_64
 {% endhighlight %}
 
-We now have this excellent utility that works on a x86-64 Mac OS machine, but we need to compile my application for 64-bit Linux-based machines. You can easily set the target operating system and processor architecture using the environment variables GOOS and GOARCH respectively. Building for a Linux system using an x86-64 processor (commonly also referred to as an amd64 processor) is as simple as running this one-liner:
+We now have this excellent utility that works on a x86-64, Mac OS machine, but we need to compile our application for x86-64, Linux-based machines. You can easily set the target operating system and processor architecture using the environment variables GOOS and GOARCH respectively. Building for a Linux system using an x86-64 processor (commonly also referred to as an amd64 processor) is as simple as running this one-liner:
 
 {% highlight bash %}
 GOOS=linux GOARCH=amd64 go build -o hello main.go
 {% endhighlight %}
 
-The *file* utility tells us that our binary is has been prepared using the ELF executable format and ready for action on a x86-64 Linux system.
+The *file* utility tells us that our binary has been prepared using the ELF executable format and ready for action on a x86-64 Linux system.
 
 {% highlight bash %}
 > file hello
