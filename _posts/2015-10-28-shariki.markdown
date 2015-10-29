@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Shariki: The Predecessor of Bejeweled and Puzzle Quest"
+date: 2015-10-23 22:52:00 -0500
+comments: false
+categories: gaming
+tags: [games, match-3]
+---
+
+I spent a lot of time yesterday writing some early classes and prototyping a game idea I had to satisfy my CS 570 (Interactive Computer Graphics) and potentially serve as my first Xbox Live Indie Arcade release. I not only discovered that my idea is significantly different from anything else on the market, but I discovered some interesting trivia about many puzzles games that involve matching three objects of a type.
+
+This idea originated from a Russian programmer Eugene Alemzhin who originally developed the game “Shariki” in 1988 for DOS PC’s. The object was to match three balls of the game color. This causes the balls to disappear and new balls to come in to take their place. Fascinating, eh? More information and other links at the Wikipedia page linked to below.
+
+Wikipedia Article on Shariki
