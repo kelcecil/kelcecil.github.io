@@ -38,3 +38,16 @@ This talk will begin with the anatomy and setup of a Kubernetes cluster. We'll d
 
 * [YouTube - 1 of 2](https://www.youtube.com/watch?v=q1VPRsf_Qa4)
 * [YouTube - 2 of 2](https://www.youtube.com/watch?v=hwA6W_N7nrg)
+
+
+[Coming Out Of Your Shell - A Comparison of *Nix Shells](http://www.slideshare.net/KelCecil/coming-out-of-your-shell-a-comparison-of-nix-shells)
+-------------------------------
+### [Pittsburgh TechFest 2016](http://pghtechfest.com)
+
+#### Abstract
+
+Plenty of individuals have used the bash shell on Linux, Mac, or perhaps even a Cygwin environment. Many Linux and Mac developers are comfortable enough with bash to get our work accomplished, but perhaps there are alternatives that may make our command line work easier, faster, or more satisfying with features or characteristics that could be a better fit for how you work. This talk will take a high-level look at the features of the bash shell alongside zsh, fish, and more to give listeners an idea of where they might start when coming out of their shell.
+
+#### Slides
+
+[http://www.slideshare.net/KelCecil/coming-out-of-your-shell-a-comparison-of-nix-shells](http://www.slideshare.net/KelCecil/coming-out-of-your-shell-a-comparison-of-nix-shells)
