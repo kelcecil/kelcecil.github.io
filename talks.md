@@ -42,6 +42,7 @@ This talk will begin with the anatomy and setup of a Kubernetes cluster. We'll d
 
 [Coming Out Of Your Shell - A Comparison of *Nix Shells](http://www.slideshare.net/KelCecil/coming-out-of-your-shell-a-comparison-of-nix-shells)
 -------------------------------
+
 ### [Pittsburgh TechFest 2016](http://pghtechfest.com)
 
 #### Abstract
