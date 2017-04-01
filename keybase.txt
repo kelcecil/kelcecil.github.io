@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/kelcecil
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kelcecil.com
+  * I am kelcecil (https://keybase.io/kelcecil) on keybase.
+  * I have a public key with fingerprint 95B0 F0FD F86A A70E 0EC5  989E 8C65 18D6 0DDD 72DA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101c7c132410bb51096235e6b4eae226bf29d3b223d076dfd016e7227c496fdc69e0a",
+            "fingerprint": "95b0f0fdf86aa70e0ec5989e8c6518d60ddd72da",
+            "host": "keybase.io",
+            "key_id": "8c6518d60ddd72da",
+            "kid": "0101c7c132410bb51096235e6b4eae226bf29d3b223d076dfd016e7227c496fdc69e0a",
+            "uid": "f9d8e10036f82d8ec8624a3ebc778d00",
+            "username": "kelcecil"
+        },
+        "service": {
+            "hostname": "kelcecil.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1491024488,
+    "expire_in": 157680000,
+    "prev": "82822f3345911e58ac72fe6bea0cb497c0249b7fedabfddf64007f7639951d79",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUltIFUEYPt5Sj9lFexApw41uIjI7uzu7eyIfJCEfzCLwEsZpd2ZWV49nT3uO
+93PEQoooLVIqewhRMF/KeihKBSFRjCJCxIcgDNQsKTSIQiprVuolemxeZuaf7/vm
++z/+K8kxroSoSzRtJvm1/Srq2XvdVTrrCTRzukUaOU8zV03XN+ojNBjyVpuE83CA
+BzyWMS9AkQe6LvFARVCQKNJFqlEIkW5AlQg6hAIBMiIGATyiMoQyFlVkEIxUCjQu
+mzNMfwW1A7bpDzFZVdKBAQxiKEjTZEABxZKqqFTBSOIVggAhRIbEIVZaQYfBzOla
+kOaYFquxi3fd3j/w/9l37bqcoRKF8gAIyFAgO2IFQVETqI5lWSEAOMAgtf1aDV33
+6sMUmz4uks2xap2JqROs08lfiBxs1TBuwLZCFrZ87KUyFAp4HGKoMeAg66nu/a3h
+1U0/YTEyQh21g6bl5zw8Q+KQ6YjyosoDKIqKks3RhoBpU6/pICQZKYAt5xta54QG
+FQgNQSgVJZXnqaRoWIYGi4ZqAOuiKmMmo+qyQYmmG4QYSARANmQkqKrEE1nlnLZO
++y0mDplRrYKJBs0KvxaqtSkXcV+I2h7rikpwbYiLdibM5U7c8mfsVorj13bHPJAv
+d2vLri/5SSlLUqy7amCxJa6jmh9PjM0fWcmbyzqE5ofH0+/UR7KqMldOTlRlLT49
+8kFZaFp7Pl/Qag/uOXd+OLEk41Hpu82VIx0LQ8urS/EbJ/sXetLna8cyQCA8FXny
+46d38OGZfaUvGo4fHZv5lN67NWNHwfDoUO9gZ9q3wrKY9KS8gdTWWTOpfyT66r2b
+XTHTXbnh+7vK7+4PN1wv39R3cOJri0/tLGrrW3179mV3e3zxaG7sJLHcF2HZ4dvt
+1yLb5kYbo4MpJW+O2SV729rDO7nHA7CpoW16efzESuUNO0yii9yF2oHp5lN9U3P+
+Wz0fU+nM98/VmegX
+=cxES
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kelcecil
+
+==================================================================
+
