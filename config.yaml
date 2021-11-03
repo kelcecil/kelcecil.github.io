@@ -1,0 +1,17 @@
+baseURL: http://kelcecil.com
+disablePathToLower: true
+languageCode: en-us
+title: Kel's Blog
+menu:
+  main:
+  - identifier: about-me
+    name: "About me"
+    url: /about
+  - identifier: talks
+    name: "Talks/Teaching"
+    url: /talks
+params:
+  twitter: https://twitter.com/praisechaos
+  links:
+    about me: /about
+    talks: /talks

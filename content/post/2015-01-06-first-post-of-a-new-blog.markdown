@@ -1,9 +1,8 @@
 ---
-layout: post
-title: "First Post of a New Blog"
-date: 2015-01-06 13:34:55 -0500
-comments: false 
-categories: 
+categories: null
+comments: false
+date: "2015-01-06T13:34:55Z"
+title: First Post of a New Blog
 ---
 
 This is a test post of my new blog using Octopress. I haven't blogged in a very long time, and I think it's time to give blogging another shot. 

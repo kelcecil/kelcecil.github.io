@@ -1,10 +1,12 @@
 ---
-layout: post
-title: "HEY! There's OCaml in My Rust! Workshop Information"
-date: 2016-10-12 19:05:00 -0400
+categories: 
+- rust
 comments: false
-categories: rust
-tags: [rust, instructions]
+date: "2016-10-12T19:05:00Z"
+tags:
+- rust
+- instructions
+title: HEY! There's OCaml in My Rust! Workshop Information
 ---
 
 Hello Rust Belt Rust attendee, and thanks for your interest in my Rust Belt Rust workshop "HEY! There's OCaml in My Rust!" I appreciate the opportunity to introduce you to Rust, OCaml, or even possibly both! I hope you learn as much from the workshop as I did in preparation.

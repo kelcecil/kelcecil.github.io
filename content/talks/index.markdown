@@ -61,4 +61,4 @@ OCaml is a language that has seen what few languages have seen-- a resurgence. S
 #### Resources
 
 * [Slides](https://www.slideshare.net/KelCecil/hey-theres-ocaml-in-my-rust)
-* [Repository of Exercises](https://github.com/kelcecil/rust-ocaml-workshop)
+* [Repository of Exercises](https://github.com/kelcecil/rust-ocaml-workshop

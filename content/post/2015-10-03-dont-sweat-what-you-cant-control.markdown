@@ -1,10 +1,13 @@
 ---
-layout: post
-title: "Don't Sweat What You Can't Control"
-date: 2015-10-03 23:31:06 -0500
+categories: 
+- speaking
 comments: false
-categories: speaking
-tags: [ohiolinux, encouragement, kubernetes]
+date: "2015-10-03T23:31:06Z"
+tags:
+- ohiolinux
+- encouragement
+- kubernetes
+title: Don't Sweat What You Can't Control
 ---
 
 I was honored to be part of Ohio Linuxfest's 2015 schedule this year. My presentation agenda was introducing Kubernetes resources and processes such as the api server, kubelet and others using slides. I followed with a live demonstration where I deployed a container with my blog to a Kubernetes cluster.
