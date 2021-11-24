@@ -1,0 +1,11 @@
+{
+    "forwardPorts": [
+        1313
+    ],
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "extensions": [
+        "bradlc.vscode-tailwindcss"
+    ]
+}
